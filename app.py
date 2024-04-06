@@ -15,7 +15,7 @@ import time
 import base64
 import json
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = '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'
 
 #Reading the each pdf
 def read_pdf(pdf_path):
