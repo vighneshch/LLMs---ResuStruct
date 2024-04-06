@@ -7,7 +7,7 @@ pinecone-client
 python-dotenv
 tiktoken
 docx2txt
-pypdf
+pypdf2
 requests
 numpy
 pandas
